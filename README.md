@@ -1,48 +1,66 @@
-<h1 align="center">📘 Data Structures & Algorithms (C++)</h1>
+<h1 align="center">📘 Data Structures & Algorithms</h1>
 
 <p align="center">
-  <b>Rigorous Implementation of Algorithmic Foundations</b>
+  <b>A structured coursework-based approach to mastering DSA using C++</b>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-Performance_Optimization-red?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Domain-AI_Web3_Foundations-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Problem%20Solving-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Progress-Consistent-orange?style=for-the-badge"/>
 </p>
 
 ---
 
-## ⚡ Why This Exists
-This isn't just a collection of LeetCode solutions. This repository documents my mastery of memory management, time-complexity optimization, and the low-level logic required for high-performance computing in **AI model optimization** and **Blockchain protocol development.**
+## ✨ Overview
 
-## 🧭 Roadmap & Implementation Status
-| Status | Module | Key Focus |
-| :--- | :--- | :--- |
-| ✅ | Basics & Recursion | Functional purity and stack limits |
-| ✅ | Trees & Graphs | Foundation for Neural Networks & P2P Networks |
-| 🚧 | Dynamic Programming | Optimization problems in Resource Allocation |
-| 📅 | Advanced Graphs | Shortest paths in decentralized nodes |
+This repository is a **systematic DSA coursework** designed to build strong fundamentals and problem-solving skills.
 
----
+The progression is **well-structured**, moving from:
+➡️ Basics  
+➡️ Core data structures  
+➡️ Advanced algorithms  
 
-## 📂 Engineering Standards
-Each solution follows a strict implementation pattern:
-1. **Problem Analysis:** Identifying constraints (N < 10^5, etc.)
-2. **Logic:** Transition from Brute Force ($O(N^2)$) to Optimized ($O(N \log N)$ or $O(N)$).
-3. **Complexity:** Explicit Space/Time analysis in headers.
-4. **Clean Code:** Adhering to C++ naming conventions and DRY principles.
-
-## 🚀 Strategic Goal
-As a General Engineering student at **IIT Mandi**, I leverage DSA to bridge the gap between abstract mathematical concepts (AI/ML) and scalable execution (Web3).
+Every solution focuses on:
+✔ Clear logic  
+✔ Optimal complexity  
+✔ Readable, interview-ready code  
 
 ---
 
-## 🛠 Tech Stack
-<p align="left">
-  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/>
-  <img src="https://img.icons8.com/color/48/git.png"/>
-  <img src="https://img.icons8.com/color/48/linux.png"/>
-</p>
+## 🧭 Course Structure
 
-**👨‍💻 Harsh Raj** IIT Mandi | General Engineering  
-*Focus: Intersection of AI/ML and Decentralized Systems*
+* **Step 1 :** Basics
+* **Step 2 :** Arrays
+* **Step 3 :** Searching & Sorting
+* **Step 4 :** Hashing
+* **Step 5 :** Recursion & Backtracking
+* **Step 6 :** Linked Lists
+* **Step 7 :** Stacks & Queues
+* **Step 8 :** Trees
+* **Step 9 :** Binary Search Trees
+* **Step 10 :** Heaps
+* **Step 11 :** Graphs
+* **Step 12 :** Dynamic Programming
+* **Step 13 :** Greedy Algorithms
+
+---
+
+## 📂 Repository Layout
+
+```text
+DSA/
+│
+├── Basics/
+├── Arrays/
+├── Searching_Sorting/
+├── Hashing/
+├── Recursion_Backtracking/
+├── Linked_List/
+├── Stack_Queue/
+├── Trees/
+├── BST/
+├── Heaps/
+├── Graphs/
+├── Dynamic_Programming/
+└── Greedy/
